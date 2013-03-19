@@ -19,5 +19,10 @@
 .classpath
 .project
 
-#Mac files
-.DS_Store
+# generic files to ignore
+*~
+*.lock
+!deps.lock
+*.DS_Store
+*.swp
+*.out
