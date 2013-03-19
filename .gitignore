@@ -3,7 +3,11 @@
 /app/bootstrap.php.cache
 /app/cache/*
 /app/logs/*
-/app/config/parameters.*
+
+# Configuration files
+app/config/parameters.ini
+#/app/config/parameters.*
+
 /build/
 /vendor/
 /bin/
